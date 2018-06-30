@@ -362,7 +362,7 @@ class Client extends JFrame implements Runnable{
 	}
 
 	Client() {
-	    super("FarWest");
+	    super("Avengers: Infinity War");
 		addKeyListener(new KeyAdapter() {
 			public void keyPressed(KeyEvent e) {
 				switch (e.getKeyCode()) {
